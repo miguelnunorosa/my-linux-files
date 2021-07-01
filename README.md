@@ -14,5 +14,7 @@ $mkdir .src
 <br><br>
 
 # Fontes
-* `cd fonts/fonts && cp *.ttf *.otf $HOME/.local/share/fonts/`
-* `fc-cache -fv`
+```
+$cd fonts/fonts && cp *.ttf *.otf $HOME/.local/share/fonts/
+$fc-cache -fv
+```

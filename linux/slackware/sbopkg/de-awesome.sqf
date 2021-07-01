@@ -1,0 +1,12 @@
+lua
+lgi
+xcb-util-xrm
+rubygem-asciidoctor
+libxdg-basedir
+python3
+ninja
+meson
+libxkbcommon
+awesome
+awesome-appmenu
+awesome-extra

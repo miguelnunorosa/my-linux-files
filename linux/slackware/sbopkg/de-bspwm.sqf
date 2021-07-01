@@ -1,0 +1,12 @@
+bspwm
+xcb-util-xrm
+check
+python3
+ninja
+meson
+libxkbcommon
+rofi
+imlib2
+feh
+xcb-util-xrm
+polybar

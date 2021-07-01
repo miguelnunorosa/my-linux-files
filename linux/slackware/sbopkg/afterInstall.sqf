@@ -1,0 +1,9 @@
+slim
+opera
+opera-ffmpeg-codecs
+geany
+vscode-bin
+xarchiver
+unrar
+libgdiplus
+mono

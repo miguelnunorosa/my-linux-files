@@ -1,8 +1,8 @@
 lua
 lgi
 xcb-util-xrm
-rubygem-asciidoctor
 libxdg-basedir
+rubygem-asciidoctor
 python3
 ninja
 meson
@@ -10,3 +10,4 @@ libxkbcommon
 awesome
 awesome-appmenu
 awesome-extra
+slackware-xdg-menu

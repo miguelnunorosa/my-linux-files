@@ -10,7 +10,7 @@ This script helps you set up a desktop system on top of FreeBSD 13.0. It will in
 3. Navigate to yout TMP directory, fetch the install script from GitHub, and run it:
 ```
 $ cd /tmp
-$ fetch --no-verify-peer https://github.com/miguelnunorosa/my-linux-files/FreeBSD/install_dark_mate.sh
+$ fetch --no-verify-peer https://github.com/miguelnunorosa/my-linux-files/blob/main/FreeBSD/install_dark_mate.sh
 $ chmod +x install_dark_mate.sh
 $ sh install_dark_mate.sh
 ```

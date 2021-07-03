@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# DarkMate Desktop for FreeBSD
+# DarkMate Desktop for FreeBSD13.0
 # by Felix Caffier
 # http://www.trisymphony.com
 # rev. 2021-04-22 with lightdm

@@ -10,9 +10,9 @@ This script helps you set up a desktop system on top of FreeBSD 13.0. It will in
 3. Navigate to yout TMP directory, fetch the install script from GitHub, and run it:
 ```
 $ cd /tmp
-$ fetch --no-verify-peer http://trisymphony.com/darkMate13
-$ chmod +x darkMate13
-$ sh darkMate13
+$ fetch --no-verify-peer https://github.com/miguelnunorosa/my-linux-files/FreeBSD/install_dark_mate.sh
+$ chmod +x install_dark_mate.sh
+$ sh install_dark_mate.sh
 ```
 4. Follow the instructions on screen. If you made a mistake, use CTRL+C to abort, then simply run the script again.
 

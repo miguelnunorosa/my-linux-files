@@ -1,0 +1,11 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=Windows10GDM.xml
+Name=Windows 10 GDM
+Description=Windows 10 Login theme
+Author=dindin@G41TR3 <dindin_hernawan@yahoo.com>
+Copyright=(c) 2017 (GPL)
+Screenshot=thumbnail.png

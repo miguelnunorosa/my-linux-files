@@ -7,6 +7,7 @@
 # Autor: Miguel Rosa
 # Data: Agosto 31, 2020
 #
+# 2021.11.21: update webmin version
 ########################################################################
 
 
@@ -18,8 +19,8 @@ fi
 
 
 #VARS
-readonly VERSION=1.955
-readonly DEPENDENCIES_LIST="perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions"
+readonly VERSION=1.981
+readonly DEPENDENCIES_LIST="perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions unzip"
 
 
 #INSTALL

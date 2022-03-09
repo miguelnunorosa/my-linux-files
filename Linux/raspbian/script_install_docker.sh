@@ -1,12 +1,11 @@
 #!/bin/bash
 ########################################################################
-#
-# Script de automação da instalação do docker no raspberry Pi
-#
-#
-# Autor: Miguel Rosa
-# Data: Agosto 31, 2020
-#
+#                                                                      #
+# Script de automação da instalação do docker no raspberry Pi          #
+#                                                                      #
+#                                                                      #
+# Autor: Miguel Rosa                                                   #
+# Data: Agosto 31, 2020                                                #
 ########################################################################
 
 
@@ -34,4 +33,4 @@ curl -fsSL ${DOCKER_URL} -o get-docker.sh && sh get-docker.sh
 # logout to take effect
 docker version
 
-print "\n\nPlease log out and back in to complete installation. Don't forget to add user to docer group (usermod -aG docker [user_name])."
+print "\n\nPlease log out and back in to complete installation. Don't forget to add user to docker group (usermod -aG docker [user_name])."

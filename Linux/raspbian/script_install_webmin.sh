@@ -32,6 +32,6 @@ echo 'change to /tmp directory...'
 cd /tmp
 wget https://sourceforge.net/projects/webadmin/files/webmin/${VERSION}/webmin_${VERSION}_all.deb
 sudo dpkg -i webmin_${VERSION}_all.deb 
-echo 'clear installation files...'
+echo '\nInstallation complete. \nCleaning files...'
 rm webmin_${VERSION}_all.deb
 echo '\nDONE!\n\n'

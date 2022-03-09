@@ -7,8 +7,7 @@ My config files for Linux and FreeBSD.
 
 # Initial config
 ```
-$mkdir Development
-$mkdir .src
+$mkdir ~/Development && mkdir ~/.src
 ```
 
 <br><br>
